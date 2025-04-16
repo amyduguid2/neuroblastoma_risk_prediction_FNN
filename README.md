@@ -62,10 +62,3 @@ Accuracy
 Precision, Recall, F1-score
 
 ROC-AUC Curve
-
-## Usage
-
-Clone the repository and run the main notebook 
-
-git clone https://github.com/your-username/neuroblastoma_risk_prediction_FNN.git
-jupyter notebook Risk_Model.ipynb
