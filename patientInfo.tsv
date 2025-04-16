@@ -1,0 +1,499 @@
+ID	FactorValue..Sex.	FactorValue..age.at.diagnosis.	FactorValue..death.from.disease.	FactorValue..high.risk.	FactorValue..inss.stage.	FactorValue..progression.
+NB498	female	530				
+NB497	female	379	0	0	1	0
+NB496	male	132				
+NB495	male	163	0	0	1	0
+NB494	male	56				
+NB493	male	190	0	0	1	0
+NB492	male	947				
+NB491	male	2326	0	1	4	1
+NB490	female	1759				
+NB489	female	865	0	1	4	0
+NB488	female	212				
+NB487	male	162	0	1	4	0
+NB486	male	478				
+NB485	female	712	0	1	3	0
+NB484	female	1546				
+NB483	female	259	0	0	1	1
+NB482	male	465				
+NB481	male	2045	0	1	4	0
+NB480	male	1897				
+NB479	female	1516	0	0	1	0
+NB478	male	1468				
+NB477	male	323	0	0	3	0
+NB476	female	860				
+NB475	male	1575	1	1	4	1
+NB474	female	17				
+NB473	female	146	0	0	1	0
+NB472	female	245				
+NB471	female	25	0	0	1	0
+NB470	male	225				
+NB469	male	1022	0	1	4	1
+NB468	male	456				
+NB467	male	2786	0	1	4	0
+NB466	female	1443				
+NB465	female	137	0	1	4	0
+NB464	male	1289				
+NB463	female	0	0	0	1	1
+NB462	female	166				
+NB461	male	267	0	1	4	0
+NB460	female	112				
+NB459	male	34	0	1	1	0
+NB458	female	1931				
+NB457	male	960	1	1	4	1
+NB456	male	410				
+NB455	male	519	0	0	4	0
+NB454	male	711				
+NB453	male	30	0	0	2	0
+NB452	female	240				
+NB451	male	330	0	0	2	0
+NB450	male	360				
+NB449	female	521	0	1	4	0
+NB448	female	1573				
+NB447	male	1275	1	1	4	1
+NB446	male	1404				
+NB445	male	1113	1	1	4	1
+NB444	male	1547				
+NB443	female	935	1	1	4	1
+NB442	female	1026				
+NB441	male	435	0	0	4	0
+NB440	male	3189				
+NB439	male	3636	1	1	4	1
+NB438	male	936				
+NB437	female	792	1	1	4	1
+NB436	male	972				
+NB435	female	282	0	0	4	0
+NB434	male	309				
+NB433	female	343	0	0	4	0
+NB432	female	582				
+NB431	female	448	0	1	4	0
+NB430	male	837				
+NB429	female	236	0	0	4	0
+NB428	male	441				
+NB427	male	214	0	0	4	0
+NB426	male	1010				
+NB425	male	227	0	0	4	0
+NB424	female	533				
+NB423	male	207	0	0	4	1
+NB422	male	1708				
+NB421	male	87	0	0	4S	0
+NB420	female	3488				
+NB419	female	133	0	0	2	0
+NB418	male	1383				
+NB417	male	235	0	0	4S	0
+NB416	male	5225				
+NB415	female	849	0	1	4	1
+NB414	male	989				
+NB413	female	1431	0	1	4	0
+NB412	male	1553				
+NB411	female	2186	0	1	4	1
+NB410	female	2621				
+NB409	male	827	0	1	4	0
+NB408	male	907				
+NB407	male	1272	1	1	3	1
+NB406	female	1053				
+NB405	male	2338	0	1	4	0
+NB404	female	529				
+NB403	male	447	1	1	4	1
+NB402	female	1325				
+NB401	male	1875	0	1	4	1
+NB400	male	1812				
+NB399	male	1215	0	1	4	0
+NB398	male	227				
+NB397	male	107	0	0	4S	0
+NB396	female	1221				
+NB395	female	2111	0	0	2	0
+NB394	male	1524				
+NB393	male	1537	1	1	4	1
+NB392	male	1282				
+NB391	male	1644	0	1	4	0
+NB390	female	822				
+NB389	male	660	0	1	4	0
+NB388	male	1363				
+NB387	male	431	0	0	4	0
+NB386	female	2264				
+NB385	female	2544	1	1	4	1
+NB384	female	1424				
+NB383	male	1904	1	1	4	1
+NB382	female	660				
+NB381	female	633	1	1	4	1
+NB380	female	21				
+NB379	male	810	0	1	4	0
+NB378	female	3072				
+NB377	male	1437	1	1	4	1
+NB376	male	1071				
+NB375	male	924	1	1	4	1
+NB374	male	1024				
+NB373	female	489	1	1	4	1
+NB372	male	1890				
+NB371	female	1488	1	1	4	1
+NB370	male	216				
+NB369	male	1132	1	1	4	1
+NB368	female	58				
+NB367	female	56	0	0	1	0
+NB366	male	0				
+NB365	male	80	0	0	4S	0
+NB364	male	8				
+NB363	male	49	0	0	4S	0
+NB362	male	641				
+NB361	male	416	0	0	4	1
+NB360	male	2135				
+NB359	male	1570	1	1	4	1
+NB358	female	304				
+NB357	female	364	0	0	3	1
+NB356	male	1074				
+NB355	male	0	0	0	1	0
+NB354	female	267				
+NB353	male	1200	1	0	3	1
+NB352	male	1050				
+NB351	male	1290	0	1	4	0
+NB350	female	271				
+NB349	female	270	0	0	3	0
+NB348	male	47				
+NB347	female	60	0	0	1	0
+NB346	female	310				
+NB345	male	240	0	0	1	0
+NB344	male	300				
+NB343	female	300	0	0	1	0
+NB342	female	210				
+NB341	male	750	0	1	4	1
+NB340	female	300				
+NB339	female	714	1	1	4	1
+NB338	female	1413				
+NB337	male	1968	1	1	4	1
+NB336	male	1067				
+NB335	female	1764	1	1	4	1
+NB334	female	432				
+NB333	male	1545	1	1	4	1
+NB332	male	549				
+NB331	male	1676	1	1	4	1
+NB330	male	516				
+NB329	male	387	0	0	4	0
+NB328	female	1560				
+NB327	male	690	1	1	2	1
+NB326	female	3240				
+NB325	male	360	0	0	1	0
+NB324	male	120				
+NB323	male	450	1	0	4	1
+NB322	male	1611				
+NB321	male	870	1	1	4	1
+NB320	male	1113				
+NB319	male	357	1	1	4	1
+NB318	female	300				
+NB317	female	732	0	0	2	0
+NB316	male	85				
+NB315	male	14	0	0	2	0
+NB314	male	196				
+NB313	male	92	0	1	4S	0
+NB312	male	97				
+NB311	female	0	0	0	4S	1
+NB310	male	116				
+NB309	male	3	0	0	4S	1
+NB308	female	143				
+NB307	female	121	0	0	4S	0
+NB306	female	16				
+NB305	female	12	1	0	4S	1
+NB304	male	3				
+NB303	male	443	0	0	1	0
+NB302	female	105				
+NB301	male	313	0	0	4S	0
+NB300	male	11				
+NB299	male	263	0	0	4S	0
+NB298	female	180				
+NB297	male	305	0	0	4S	1
+NB296	male	69				
+NB295	female	146	0	0	4S	1
+NB294	female	121				
+NB293	male	21	0	0	4S	0
+NB292	male	75				
+NB291	female	128	0	0	4S	0
+NB290	male	139				
+NB289	female	144	1	0	4S	1
+NB288	female	93				
+NB287	female	50	1	0	4S	1
+NB286	male	3				
+NB285	male	79	0	0	4S	0
+NB284	male	10				
+NB283	male	118	0	0	4S	0
+NB282	male	202				
+NB281	male	0	0	0	4S	0
+NB280	female	193				
+NB279	male	66	0	0	4S	0
+NB278	male	121				
+NB277	female	194	0	0	4S	0
+NB276	male	12				
+NB275	female	52	0	0	4S	0
+NB274	female	35				
+NB273	male	165	0	0	4S	1
+NB272	male	1174				
+NB271	male	589	1	1	4	1
+NB270	male	121				
+NB269	female	583	1	1	4	1
+NB268	male	3842				
+NB267	female	978	1	1	4	1
+NB266	female	880				
+NB265	male	769	0	1	4	0
+NB264	female	2105				
+NB263	female	8278	1	1	4	1
+NB262	female	633				
+NB261	male	1029	0	1	4	0
+NB260	female	710				
+NB259	female	517	1	1	4	1
+NB258	female	3749				
+NB257	female	1964	1	1	4	1
+NB256	female	279				
+NB255	female	982	1	1	4	1
+NB254	male	219				
+NB253	female	247	0	0	4	0
+NB252	female	658				
+NB251	male	1486	0	1	4	0
+NB250	female	1529				
+NB249	male	1590	0	1	4	0
+NB248	male	1273				
+NB247	male	1267	0	1	4	1
+NB246	male	2324				
+NB245	male	1319	1	1	4	1
+NB244	male	724				
+NB243	male	1640	0	1	4	0
+NB242	female	1841				
+NB241	male	1101	0	1	4	0
+NB240	female	215				
+NB239	male	1909	0	1	4	0
+NB238	male	386				
+NB237	female	1798	0	0	1	0
+NB236	male	1742				
+NB235	female	352	0	0	4	1
+NB234	female	0				
+NB233	male	152	0	0	3	1
+NB232	female	49				
+NB231	male	279	0	0	3	1
+NB230	male	9				
+NB229	female	218	0	0	3	0
+NB228	female	170				
+NB227	male	87	0	0	2	1
+NB226	male	680				
+NB225	male	84	0	0	2	0
+NB224	female	8926				
+NB223	female	28	0	0	3	1
+NB222	female	2225				
+NB221	male	1841	0	0	2	0
+NB220	female	0				
+NB219	male	2	0	0	2	0
+NB218	male	8				
+NB217	male	129	0	0	2	0
+NB216	male	262				
+NB215	male	98	0	0	1	0
+NB214	female	437				
+NB213	male	560	0	0	1	0
+NB212	male	0				
+NB211	male	11	0	0	1	0
+NB210	male	204				
+NB209	female	226	0	0	1	0
+NB208	female	29				
+NB207	female	118	0	0	1	0
+NB206	male	35				
+NB205	male	165	0	0	1	0
+NB204	female	18				
+NB203	male	101	0	0	1	0
+NB202	male	23				
+NB201	male	98	0	0	1	0
+NB200	male	75				
+NB199	male	186	0	0	1	0
+NB198	female	423				
+NB197	female	310	1	1	3	1
+NB196	male	571				
+NB195	female	1081	1	1	3	1
+NB194	female	767				
+NB193	female	385	0	0	3	0
+NB192	male	1004				
+NB191	female	227	0	0	3	1
+NB190	male	1408				
+NB189	male	448	0	0	3	1
+NB188	female	1057				
+NB187	male	1683	0	0	3	0
+NB186	female	121				
+NB185	female	300	0	0	2	0
+NB184	male	370				
+NB183	male	1676	0	0	2	0
+NB182	male	217				
+NB181	male	3	0	0	2	1
+NB180	female	890				
+NB179	male	42	0	0	2	1
+NB178	male	0				
+NB177	female	0	0	0	2	1
+NB176	male	363				
+NB175	female	134	0	1	4S	0
+NB174	male	429				
+NB173	female	374	0	0	2	1
+NB172	male	502				
+NB171	male	7	0	0	2	0
+NB170	male	6				
+NB169	male	4131	1	1	1	1
+NB168	female	90				
+NB167	male	315	0	0	1	0
+NB166	male	103				
+NB165	female	262	0	0	1	0
+NB164	male	267				
+NB163	male	20	0	0	1	0
+NB162	female	700				
+NB161	female	56	0	0	1	0
+NB160	male	356				
+NB159	female	933	0	0	1	0
+NB158	female	23				
+NB157	male	460	0	0	1	0
+NB156	male	49				
+NB155	male	63	0	0	1	0
+NB154	male	82				
+NB153	female	2041	0	0	1	0
+NB152	male	37				
+NB151	female	1099	0	0	2	0
+NB150	female	181				
+NB149	female	666	1	0	2	1
+NB148	male	13				
+NB147	male	134	0	0	2	0
+NB146	male	108				
+NB145	male	356	0	0	2	0
+NB144	male	1141				
+NB143	female	1085	0	1	4	0
+NB142	female	426				
+NB141	male	228	0	0	3	0
+NB140	female	8983				
+NB139	female	181	0	0	1	0
+NB138	male	823				
+NB137	male	1017	1	1	3	1
+NB136	male	1679				
+NB135	male	526	0	0	3	0
+NB134	male	0				
+NB133	female	521	0	0	4	1
+NB132	male	1071				
+NB131	male	2	0	0	3	0
+NB130	male	47				
+NB129	male	1701	0	0	3	0
+NB128	male	222				
+NB127	female	144	0	0	3	0
+NB126	female	0				
+NB125	female	9	0	0	2	0
+NB124	male	240				
+NB123	male	151	0	0	2	0
+NB122	female	4562				
+NB121	male	121	0	0	2	0
+NB120	male	228				
+NB119	female	207	1	0	2	1
+NB118	male	256				
+NB117	female	206	0	0	2	1
+NB116	female	301				
+NB115	male	417	0	0	2	0
+NB114	male	465				
+NB113	male	451	0	1	1	1
+NB112	female	734				
+NB111	female	41	0	0	1	0
+NB110	male	92				
+NB109	male	101	0	0	1	1
+NB108	male	371				
+NB107	female	427	0	0	1	0
+NB106	male	262				
+NB105	female	887	0	0	1	0
+NB104	male	272				
+NB103	female	758	0	0	1	1
+NB102	male	544				
+NB101	male	425	0	0	1	0
+NB100	male	218				
+NB099	male	0	0	0	1	0
+NB098	male	545				
+NB097	female	529	0	0	1	0
+NB096	female	465				
+NB095	male	460	0	0	1	0
+NB094	male	4394				
+NB093	male	366	0	0	4	0
+NB092	male	933				
+NB091	male	2429	0	1	4	1
+NB090	female	5465				
+NB089	male	395	0	0	4	0
+NB088	female	400				
+NB087	male	1602	0	1	4	1
+NB086	female	359				
+NB085	female	321	0	0	4	0
+NB084	female	495				
+NB083	male	1262	0	1	4	0
+NB082	male	1012				
+NB081	male	2737	0	1	3	0
+NB080	female	1000				
+NB079	male	452	0	0	3	0
+NB078	male	1381				
+NB077	male	66	0	0	3	0
+NB076	male	451				
+NB075	female	461	0	0	3	0
+NB074	male	1126				
+NB073	female	344	0	0	3	0
+NB072	male	202				
+NB071	female	0	0	0	3	0
+NB070	female	379				
+NB069	female	1585	1	0	3	1
+NB068	female	541				
+NB067	male	243	0	0	3	0
+NB066	female	453				
+NB065	male	417	0	0	2	0
+NB064	male	91				
+NB063	female	472	0	0	2	1
+NB062	female	408				
+NB061	male	442	0	0	2	0
+NB060	male	470				
+NB059	female	546	0	0	1	0
+NB058	female	743				
+NB057	male	449	0	0	1	0
+NB056	male	405				
+NB055	female	94	0	0	1	0
+NB054	female	824				
+NB053	male	10	0	0	1	0
+NB052	female	1016				
+NB051	male	46	0	0	4S	0
+NB050	female	546				
+NB049	female	638	0	0	2	0
+NB048	male	715				
+NB047	female	381	0	0	2	0
+NB046	female	480				
+NB045	female	867	0	0	2	0
+NB044	female	528				
+NB043	male	458	0	0	2	0
+NB042	female	975				
+NB041	female	472	0	0	2	0
+NB040	male	971				
+NB039	female	705	0	0	2	0
+NB038	female	466				
+NB037	female	446	0	0	1	0
+NB036	male	744				
+NB035	male	173	0	0	1	0
+NB034	female	467				
+NB033	female	479	0	0	1	0
+NB032	female	398				
+NB031	female	494	0	0	1	0
+NB030	male	450				
+NB029	male	463	0	0	1	0
+NB028	female	468				
+NB027	female	440	0	0	1	0
+NB026	female	488				
+NB025	male	496	0	0	1	0
+NB024	female	499				
+NB023	male	420	0	0	1	0
+NB022	male	401				
+NB021	female	564	0	0	1	0
+NB020	male	497				
+NB019	female	303	0	0	1	0
+NB018	male	507				
+NB017	male	765	0	0	2	0
+NB016	female	0				
+NB015	male	4785	0	1	4	1
+NB014	female	515				
+NB013	male	3394	1	1	4	1
+NB012	male	380				
+NB011	male	414	0	0	2	0
+NB010	male	379				
+NB009	female	217	0	1	4S	0
+NB008	male	1652				
+NB007	male	942	0	1	4	1
+NB006	male	147				
+NB005	female	536	1	1	4	1
+NB004	female	335				
+NB003	female	625	1	1	4	1
+NB002	male	1808				
+NB001	male	987	1	1	4	1
