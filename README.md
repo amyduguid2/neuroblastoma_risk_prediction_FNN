@@ -28,9 +28,9 @@ Integration of RNA-Seq, microarray, and metadata features.
 
 Normalization and cleanup steps.
 
-Feature Selection
+## Feature Selection
 
-## Sequencing data is filtered using:
+Sequencing data is filtered using:
 
 SelectKBest from sklearn
 
