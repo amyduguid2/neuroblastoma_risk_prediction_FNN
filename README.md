@@ -5,7 +5,8 @@ This repository contains a Python notebook that implements a feedforward neural 
 
 Clone the repository and run the main notebook 
 
-git clone https://github.com/your-username/neuroblastoma_risk_prediction_FNN.git
+git clone https://github.com/your-username/neuroblastoma_risk_prediction_FNN
+
 jupyter notebook Risk_Model.ipynb
 
 ## 🧠 Project Overview
