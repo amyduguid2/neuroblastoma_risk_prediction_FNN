@@ -54,7 +54,7 @@ Precision, recall, F1-score and ROC curve also plotted in the notebook for 5 fol
 
 ## Prediction on Unlabeled Data
 
-Final model is retrained on the full training set and used to generate predictions on unlabeled test data.
+Final model is selected and used to generate predictions on unlabeled test data.
 
 ## 📊 Evaluation Metrics
 Accuracy
