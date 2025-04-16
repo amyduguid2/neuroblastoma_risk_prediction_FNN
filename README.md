@@ -1,10 +1,10 @@
 # Neuroblastoma Risk Prediction using a Feedforward Neural Network
 This repository contains a Python notebook that implements a feedforward neural network to classify neuroblastoma patients as high risk or low risk. The model integrates multi-omics data and patient metadata, using RNA-Seq, microarray gene expression profiles, and clinical features to generate predictions.
 
-##🧠 Project Overview
+## 🧠 Project Overview
 The primary goal of this project is to develop a deep learning model that can accurately predict patient risk groups in neuroblastoma, a heterogeneous pediatric cancer. The pipeline includes preprocessing, feature selection, model training with cross-validation, and final predictions on previously unseen samples.
 
-##📂 Data Sources
+## 📂   Data Sources
 RNA-Seq data (fpkm)
 
 Microarray data (intensities)
