@@ -12,6 +12,11 @@ jupyter notebook Risk_Model.ipynb
 ## 🧠 Project Overview
 The primary goal of this project is to develop a deep learning model that can accurately predict patient risk groups in neuroblastoma, a heterogeneous pediatric cancer. The pipeline includes preprocessing, feature selection, model training with cross-validation, and final predictions on previously unseen samples.
 
+## Workflow
+
+![Workflow_Diagram](Workflow/workflow.png).
+
+
 ## 📂   Data Sources
 RNA-Seq data (fpkm)
 
