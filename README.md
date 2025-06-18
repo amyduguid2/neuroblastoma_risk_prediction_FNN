@@ -35,11 +35,13 @@ Normalization and cleanup steps.
 
 ## Feature Selection
 
-Sequencing data is filtered using:
+Sequencing/microarray data is filtered using:
 
 SelectKBest from sklearn
 
 Followed by an autoencoder for dimensionality reduction
+
+The top 50 features were selected from the latent space representations of autoencoders trained separately on microarray and RNA-Seq datasets. These features were then combined to form a unified feature set for downstream analysis.
 
 ## Model Architecture
 
@@ -49,7 +51,7 @@ Binary classification output: High Risk vs Low Risk
 
 ## Cross-Validation
 
-Model evaluation using 5-fold cross-validation to ensure generalizability.
+Model evaluation using 5-fold cross-validation to ensure generalisability.
 
 Selection of the best-performing model based on model accuracy
 
